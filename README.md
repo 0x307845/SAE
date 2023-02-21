@@ -1,8 +1,7 @@
 # SAE
 Un petit récap de mes SAE durant mon IUT à Annecy
 - Semestre 1
-    - **SAE101 - Sensibilisation à l'hygiène informatique et à la cybersécurité**
-        - 
+    - **SAE101 - Sensibilisation à l'hygiène informatique et à la cybersécurité** 
     - **SAE102 - S'initier aux réseaux informatiques**
     - **SAE103 - Découvrir un dispositif de transmission**
     - **SAE104 - Se présenter sur internet**
