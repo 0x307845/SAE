@@ -16,8 +16,9 @@ Un petit récap de mes SAE durant mon IUT à Annecy
     - **SAE302 - Développer des applications communicantes**
     - **SAE303- CCNA2: Concevoir un réseau informatique sécurisé multi-sites**
     - **SAE304 - Découvrir le pentesting**
--
+
 **SAE101 - Sensibilisation à l'hygiène informatique et à la cybersécurité**
+-
 Durant cette SAE j'ai travaillé sur les Mooc de SecNumAcadémie de l'ANSSI, est un cours en ligne gratuit proposé par l'Agence nationale de la sécurité des systèmes d'information (ANSSI) en France. Le MOOC vise à sensibiliser les utilisateurs à la sécurité informatique et à les aider à mieux se protéger contre les attaques informatiques. La formation se compose de plusieurs modules couvrant différents aspects de la sécurité informatique, tels que la protection des données, les techniques d'attaque et les bonnes pratiques en matière de sécurité sur Internet.
 - **Compétence :**
 ```
@@ -36,8 +37,8 @@ Durant cette SAE j'ai travaillé sur les Mooc de SecNumAcadémie de l'ANSSI, est
 - Connaître les principales techniques d'attaque et les moyens de les contrer
 - Savoir mettre en place une politique de sécurité adaptée à son environnement
 ```
--
 **SAE102 - S'initier aux réseaux informatiques**
+-
 Pendant cette SAE j'ai pu travailler la version 1 de la CCNA proposé par Cisco c'est une formation d'initiation aux réseaux informatiques. Elle couvre les concepts de base des réseaux, tels que les modèles de référence OSI et TCP/IP, les adresses IP, les protocoles de routage, les technologies LAN et WAN, etc. Cette certification est disposé sur plusieurs SAE à savoir 102, 201, 203.
 - **Compétence :**
 ```
@@ -53,8 +54,8 @@ Pendant cette SAE j'ai pu travailler la version 1 de la CCNA proposé par Cisco 
 - Savoir utiliser des outils de surveillance et de dépannage pour les réseaux informatiques
 - Comprendre les concepts de virtualisation et de cloud computing dans les réseaux
 ```
--
 **SAE301 - Mettre en oeuvre des réseaux de transmission**
+-
 Cette SAE m'as permis d'avoir une meilleure compréhension des cours de télécommunications, qui m'apparaissaient auparavant abstraits. J'ai réalisé que je me trompais et j'ai pu voir à quel point les télécommunications sont importantes, que ce soit pour le Wi-Fi ou pour la cybersécurité, qui est ma passion. Grâce à cette SAE, je me suis énormément intéressé à la cybersécurité d'un point de vue orienté autour des télécommunications, ce qui m'a permis de découvrir de nouveaux concepts qui m'étaient jusque-là inconnus.
 - **Compétence :**
 ```
