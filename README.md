@@ -17,6 +17,10 @@ Un petit récap de mes SAE durant mon IUT à Annecy
     - **SAE303- CCNA2: Concevoir un réseau informatique sécurisé multi-sites**
     - **SAE304 - Découvrir le pentesting**
 
+**SAE101 - Sensibilisation à l'hygiène informatique et à la cybersécurité**
+-
+Durant cette SAE nous avons travailler sur les Mooc de Secnumacademie de l'ANSSI, 
+
 **SAE301 - Mettre en oeuvre des réseaux de transmission**
 - 
 Cette SAE m'as permis d'avoir une meilleure compréhension des cours de télécommunications, qui m'apparaissaient auparavant abstraits. J'ai réalisé que je me trompais et j'ai pu voir à quel point les télécommunications sont importantes, que ce soit pour le Wi-Fi ou pour la cybersécurité, qui est ma passion. Grâce à cette SAE, je me suis énormément intéressé à la cybersécurité d'un point de vue orienté autour des télécommunications, ce qui m'a permis de découvrir de nouveaux concepts qui m'étaient jusque-là inconnus.
