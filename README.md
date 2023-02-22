@@ -20,13 +20,12 @@ Un petit récap de mes SAE durant mon IUT à Annecy
 **SAE301 - Mettre en oeuvre des réseaux de transmission**
 - 
 Cette SAE m'as permis d'avoir une meilleure compréhension des cours de télécommunications, qui m'apparaissaient auparavant abstraits. J'ai réalisé que je me trompais et j'ai pu voir à quel point les télécommunications sont importantes, que ce soit pour le Wi-Fi ou pour la cybersécurité, qui est ma passion. Grâce à cette SAE, je me suis énormément intéressé à la cybersécurité d'un point de vue orienté autour des télécommunications, ce qui m'a permis de découvrir de nouveaux concepts qui m'étaient jusque-là inconnus.
-
-    - Compétence :
+- **Compétence :**
 ```
-        - Apprentissage des techniques de modulation et démodulation pour la transmission d'informations à travers les réseaux de communication
-        - Étude des différences entre démodulation synchrone et asynchrone, ainsi que des méthodes pour compenser les erreurs de démodulation
-        - Connaissance de la fonctionnement des réseaux sans fil et des facteurs influençant leur performance
-        - Compréhension des techniques de configuration des points d'accès pour maximiser la qualité de transmission des données
-        - Acquisition de compétences en matière de télécommunications et de cybersécurité
-        - Meilleure compréhension des techniques fondamentales telles que la modulation et la démodulation, ainsi que des concepts liés à la cybersécurité des réseaux sans fil.
+- Apprentissage des techniques de modulation et démodulation pour la transmission d'informations à travers les réseaux de communication
+- Étude des différences entre démodulation synchrone et asynchrone, ainsi que des méthodes pour compenser les erreurs de démodulation
+- Connaissance de la fonctionnement des réseaux sans fil et des facteurs influençant leur performance
+- Compréhension des techniques de configuration des points d'accès pour maximiser la qualité de transmission des données
+- Acquisition de compétences en matière de télécommunications et de cybersécurité
+- Meilleure compréhension des techniques fondamentales telles que la modulation et la démodulation, ainsi que des concepts liés à la cybersécurité des réseaux sans fil.
 ```
