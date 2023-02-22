@@ -54,6 +54,17 @@ Pendant cette SAE j'ai pu travailler la version 1 de la CCNA proposé par Cisco 
 - Savoir utiliser des outils de surveillance et de dépannage pour les réseaux informatiques
 - Comprendre les concepts de virtualisation et de cloud computing dans les réseaux
 ```
+**SAE103 - Découvrir un dispositif de transmission**
+-
+Durant cette SAE j'ai été initié aux télécommunications, c'est un domaine très vaste qui couvre les technologies de transmission de données et de communication à distance à l'aide de signaux électroniques. Au cours de cette SAE, j'ai étudié les différents types de signaux, tels que les signaux analogiques et numériques, ainsi que les techniques de modulation et de démodulation qui permettent de transporter ces signaux sur des canaux de communication.
+- **Compétence :**
+```
+- Découverte du fonctionnement d'un oscilloscope : cela consiste à se familiariser avec le fonctionnement de cet outil de mesure électronique.
+- Découverte des bases des télécom : cela implique d'apprendre les concepts fondamentaux et les technologies clés utilisées dans les communications électroniques.
+- Afficher et lire un signal : cela consiste à visualiser et interpréter un signal électronique à l'aide d'un oscilloscope ou d'autres outils de mesure similaires.
+```
+
+
 **SAE301 - Mettre en oeuvre des réseaux de transmission**
 -
 Cette SAE m'as permis d'avoir une meilleure compréhension des cours de télécommunications, qui m'apparaissaient auparavant abstraits. J'ai réalisé que je me trompais et j'ai pu voir à quel point les télécommunications sont importantes, que ce soit pour le Wi-Fi ou pour la cybersécurité, qui est ma passion. Grâce à cette SAE, je me suis énormément intéressé à la cybersécurité d'un point de vue orienté autour des télécommunications, ce qui m'a permis de découvrir de nouveaux concepts qui m'étaient jusque-là inconnus.
